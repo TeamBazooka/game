@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "node",
+    "target": "ES2018",
+    "module": "ES2015",
+    "rootDir": "src",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
